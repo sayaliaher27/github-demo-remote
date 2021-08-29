@@ -4,8 +4,8 @@ def add(x,y):
 
 #sub fn
 def sub(x,y):
-    pass
-
+    return x-y   #on bug456
+ 
 #mul fn
 def mul(x,y):
     pass
