@@ -1,16 +1,14 @@
 # Add fn
 def add(x,y):
     pass
+#sub fn
 def sub(x,y):
-    return x-y      #on master branch
-def mul(x,y):
-    return x*y     # on bug456
-def div (x,y):
-    if(y==0):
-        return divideby0
-    else:
-        return x/y
+    pass
 
-def square(x):
+#mul fn
+def mul(x,y):
+    pass
+#div fn
+def div (x,y):
     pass
 
